@@ -1,0 +1,31 @@
+_repo: Talks-on-Talking_17476
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kleiser, Grenville
+    birthdate: 1868
+    deathdate: 1953
+    gutenberg_agent_id: '4071'
+    url: http://www.gutenberg.org/2009/agents/4071
+description: Effective spoken communication is a fine art. Brush up your speaking
+  skills with this timeless treatise on talking from Yale public speaking instructor
+  Grenville Kleiser. Brimming with practical tips on how to get your point across,
+  this book is a must-have for anyone who wants to be a better communicator.
+gutenberg_issued: '2006-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17476'
+  lccn: '16019827'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Conversation'
+- !lcsh 'Oratory'
+title: Talks on Talking
+url: http://www.gutenberg.org/ebooks/17476
